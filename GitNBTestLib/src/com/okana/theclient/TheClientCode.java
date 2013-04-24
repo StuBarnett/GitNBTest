@@ -6,5 +6,5 @@ package com.okana.theclient;
  */
 public class TheClientCode
 {
-    
+    /// sample code
 }
